@@ -10,6 +10,8 @@
 
 - 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, SQL e Node.JS**
 
+- Estou em busca de estágio na área de desenvolvimento
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
