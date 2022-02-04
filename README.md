@@ -8,7 +8,7 @@
 
 - 🔭 Sou estudante de ensino médio técnico em Eletrônica no Instituto Federal de Goiás (IFG)
 
-- 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, SQL e Node.JS**
+- 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, React, SQL e Node.JS**
 
 - Estou em busca de estágio na área de desenvolvimento
 
@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 <br><br>
 
