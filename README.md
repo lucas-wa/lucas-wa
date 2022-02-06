@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucas-wa/421d14d152b67148633754be8f8d6b8c/raw/dd1be4a44506a7bdb160ad72a7cedd3f0c2fa4c8/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucas-wa/421d14d152b67148633754be8f8d6b8c/raw/dd1be4a44506a7bdb160ad72a7cedd3f0c2fa4c8/githubcard.svg"/> -->
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Lucas Alves</h1>
 
