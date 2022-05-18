@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-wa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estudo programação web de forma independente a área de
+- 🔭 Sou estudante de ensino médio técnico em Eletrônica no Instituto Federal de Goiás (IFG)]
 
-- 🔭 Sou estudante de ensino médio técnico em Eletrônica no Instituto Federal de Goiás (IFG)
+- 🔥 Estudo programação web de forma independente
 
 - 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, React, SQL e Node.JS**
 
