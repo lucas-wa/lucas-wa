@@ -36,7 +36,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-alves-238914222" target="_blank">
