@@ -29,19 +29,19 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
+</p>
 
 <br><br>
 
 ## :computer: Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-alves-238914222" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/lucas-alves-238914222" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
+</a> -->
 <a href="https://www.instagram.com/lucas_w.a" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
