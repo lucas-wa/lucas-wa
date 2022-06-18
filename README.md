@@ -8,9 +8,9 @@
 
 - 🔥 Estudo programação web de forma independente
 
-- 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, React, SQL e Node.JS**
+- 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, React e Node.JS**
 
-- Estou em busca de estágio na área de desenvolvimento
+- Estou em busca de uma oportunidade na área de desenvolvimento
 
 <br><br>
 
