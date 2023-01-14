@@ -27,15 +27,15 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!--## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wa&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
 </div>
 
 <br><br>
-
+-->
 ## :computer: Social Links
 
 <p align="left" style="background:yellow">
