@@ -27,7 +27,7 @@
 
 <br><br>
 
-<!--## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wa&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
@@ -35,11 +35,11 @@
 </div>
 
 <br><br>
--->
+
 ## :computer: Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-alves-238914222" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-wa/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <!-- <a href="https://www.instagram.com/lucas_w.a" target="_blank">
