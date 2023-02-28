@@ -29,9 +29,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wa&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
+<div align="center" style="display:flex;">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wa&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
 </div>
 
 <br><br>
