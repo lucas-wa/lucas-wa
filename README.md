@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-wa&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Formado em Eletrônica pelo Instituto Federal de Goiás (IFG)]
+- 🔭 Formado em Eletrônica pelo Instituto Federal de Goiás (IFG)
+
+- 🧠 Curso Bacharelado em Inteligência Artificial na Universidade Federal de Goiás (UFG)
 
 - 🔥 Estudo programação web de forma independente
 
