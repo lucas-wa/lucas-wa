@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucas-wa/a6696225ffc8a64e25bede3387f7e7a2/raw/828608b37626db6daab1247ff332be4d057b0793/Profile_card.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucas-wa/a6696225ffc8a64e25bede3387f7e7a2/raw/828608b37626db6daab1247ff332be4d057b0793/Profile_card.svg"/>-->
 
 <h1 align="left">Olá, eu sou Lucas!!</h1>
 
@@ -29,7 +29,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display:flex; flex-direction:column;">
+<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
   <div>
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
   </div>
