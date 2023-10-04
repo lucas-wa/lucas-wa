@@ -12,7 +12,7 @@
 
 - 🔥 Estudo programação web de forma independente
 
-- 💬 Atualmente estudo e desenvolvo em **JavaScript, HTML, CSS, React e Node.JS**
+- 💬 Atualmente estudo e desenvolvo em **JavaScript, React, Next.js e Node.JS**
 
 - Estou em busca de uma oportunidade na área de desenvolvimento
 
@@ -20,31 +20,19 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,python,react,vite,next,tailwind,git,vscode,sass,nodejs,flask,express,figma,github,linux,postman,vercel" />
+</a>
+  <br />
+
+  </div>
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
-  <div>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucas-wa&show_icons=true&theme=dracula" alt="lucas-wa's stats"/>
-  </div>
-  <div>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wa&layout=compact&theme=dracula" alt="lucas-wa's most languages"/>
-  </div>
-</div>
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucas-wa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-wa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 <br><br>
 
