@@ -2,6 +2,8 @@
 
 <h1 align="left">Olá, eu sou Lucas!!</h1>
 
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-wa&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Formado em Eletrônica pelo Instituto Federal de Goiás (IFG)
