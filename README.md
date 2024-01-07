@@ -8,8 +8,6 @@
 
 - 🔥 Estudo programação web de forma independente
 
-- 💬 Atualmente estudo e desenvolvo em **JavaScript, React, Next.js e Node.JS**
-
 - Estou em busca de uma oportunidade na área de desenvolvimento
 
 <br><br>
