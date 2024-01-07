@@ -2,10 +2,6 @@
 
 <h1 align="left">Olá, eu sou Lucas!!</h1>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-wa&color=yellow" alt="Profile views" /> </p>
-
 - 🔭 Formado em Eletrônica pelo Instituto Federal de Goiás (IFG)
 
 - 🧠 Curso Bacharelado em Inteligência Artificial na Universidade Federal de Goiás (UFG)
@@ -32,7 +28,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucas-wa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-wa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucas-wa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-wa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 <br><br>
 
