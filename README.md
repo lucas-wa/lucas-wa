@@ -2,11 +2,9 @@
 
 - ⚡ Formado em Eletrônica pelo Instituto Federal de Goiás (IFG)
 
-- 🧠 Curso Bacharelado em Inteligência Artificial na Universidade Federal de Goiás (UFG)
+- 🧠 Curso Bacharelado em Inteligência Artificial na Universidade Federal de Goiás (UFG) (1º da América Latina)
 
-- 🔥 Estudo programação web de forma independente
-
-- 🔭 Estou em busca de uma oportunidade na área de desenvolvimento
+- 🔥 Dev Fullstack
 
 <br><br>
 
