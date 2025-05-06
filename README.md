@@ -6,6 +6,8 @@
 
 - 🔥 Dev Fullstack
 
+- 🔥 DevOps
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
